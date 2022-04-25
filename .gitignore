@@ -1,3 +1,5 @@
 .DS_Store
 sql/*.sql
+sql/*.tar
+sql/metadata
 /data
